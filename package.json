@@ -1,0 +1,14 @@
+{
+  "name": "web3-shiro",
+  "version": "1.0.0",
+  "description": "Simple app to call contract methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Shiro Honda",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  }
+}
